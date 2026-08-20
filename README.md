@@ -13,27 +13,27 @@ DriveWay is a Java-based web application for renting and managing vehicles onlin
 ---
 
 ### Home Page
-![DriveWay Home Page](docs/screenshots/herosection.png)
+![DriveWay Home Page](docs/Screenshots/herosection.png)
 ### Customer Registration
-![Customer Registration](docs/screenshots/customerRegistration.png)
+![Customer Registration](docs/Screenshots/customerRegistration.png)
 ### Login
-![Login Page](docs/screenshots/loginPage.png)
+![Login Page](docs/Screenshots/loginPage.png)
 ### Customer Dashboard
-![Customer Dashboard](docs/screenshots/customerDashboard.png)
+![Customer Dashboard](docs/Screenshots/customerDashboard.png)
 ### Browse Vehicles
-![Browse Vehicles](docs/screenshots/browseVehicle.png)
+![Browse Vehicles](docs/Screenshots/browseVehicle.png)
 ### Vendor Registration
-![Vendor Registration](docs/screenshots/vendorRegistration.png)
+![Vendor Registration](docs/Screenshots/vendorRegistration.png)
 ### Vendor Dashboard
-![Vendor Dashboard](docs/screenshots/vendorDashboard.png)
+![Vendor Dashboard](docs/Screenshots/vendorDashboard.png)
 ### Vendor Vehicle Management
-![Vendor Vehicle Management](docs/screenshots/vendorMyVehicle.png)
+![Vendor Vehicle Management](docs/Screenshots/vendorMyVehicle.png)
 ### Admin Dashboard
-![Admin Dashboard](docs/screenshots/adminDashboard.png)
+![Admin Dashboard](docs/Screenshots/adminDashboard.png)
 ### Manage Users
-![Manage Users](docs/screenshots/manageUsers.png)
+![Manage Users](docs/Screenshots/manageUsers.png)
 ### Manage Vendors
-![Manage Vendors](docs/screenshots/manageVendors.png)
+![Manage Vendors](docs/Screenshots/manageVendors.png)
 
 ---
 
