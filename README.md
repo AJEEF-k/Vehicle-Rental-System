@@ -22,8 +22,6 @@ DriveWay is a Java-based web application for renting and managing vehicles onlin
 ![Customer Dashboard](docs/Screenshots/customerDashboard.png)
 ### Browse Vehicles
 ![Browse Vehicles](docs/Screenshots/browseVehicle.png)
-### Vendor Registration
-![Vendor Registration](docs/Screenshots/vendorRegistration.png)
 ### Vendor Dashboard
 ![Vendor Dashboard](docs/Screenshots/vendorDashboard.png)
 ### Vendor Vehicle Management
